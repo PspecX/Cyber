@@ -8,6 +8,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - Active Directory Home Lab
+- Vulnerability Management with Nessus 
 
 
 <h2>Software Development Projects:</h2>
